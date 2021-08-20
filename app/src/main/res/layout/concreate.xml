@@ -24,7 +24,7 @@
         android:gravity="center"
         android:layout_marginBottom="3dp"
         android:layout_marginTop="4dp"
-        android:text="hold an enter to delete it!     "
+        android:text="hold an entry to delete it!     "
         android:textAlignment="center"
         android:textColor="#F32121" />
 
